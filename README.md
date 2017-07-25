@@ -1,2 +1,2 @@
-# SFG
-signal flow graph -Control
+# SFG-Control
+calculating signal flow graph using Mason's formula
